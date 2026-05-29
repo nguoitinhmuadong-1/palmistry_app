@@ -9,7 +9,7 @@ import os
 # CONFIG
 # =========================
 st.set_page_config(
-    page_title="Palmistry AI",
+    page_title="AD Palmistry",
     page_icon="✋",
     layout="wide"
 )

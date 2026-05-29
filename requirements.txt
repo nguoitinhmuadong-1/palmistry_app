@@ -3,4 +3,7 @@ ultralytics
 opencv-python-headless
 pillow
 numpy
-tensorflow
+matplotlib
+tensorflow==2.15.0
+torch
+torchvision

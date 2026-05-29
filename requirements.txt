@@ -2,8 +2,9 @@ streamlit
 ultralytics
 opencv-python-headless==4.10.0.84
 pillow
-numpy
+numpy<2
 matplotlib
-tensorflow==2.15.0
+tensorflow==2.16.1
+keras==3.3.3
 torch
 torchvision

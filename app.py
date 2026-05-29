@@ -285,7 +285,7 @@ st.sidebar.markdown(
 # =========================
 # MAIN HEADER
 # =========================
-st.markdown("<div class='main-title'>✋ Palmistry AI</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>✋ AD Palmistry</div>", unsafe_allow_html=True)
 st.markdown(
     "<div class='sub-title'>Nhận diện các đường chỉ tay bằng YOLO và phân tích kết quả theo phong cách palmistry</div>",
     unsafe_allow_html=True
